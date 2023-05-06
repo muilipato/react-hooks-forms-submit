@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-function Form(props) {
+function Form() {
   const [firstName, setFirstName] = useState("Sylvia");
   const [lastName, setLastName] = useState("Woods");
 
